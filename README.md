@@ -34,7 +34,13 @@ Your login stays on your TV. To change it: Settings › Playlists and channels �
 
 ## Updating
 
-Enter the same Downloader code (**2785143**) again and install over the top — it always gets the newest version. Your login and settings are kept.
+From version 1.0.1, Vantage updates itself: when there's a new version it asks you on the Home screen,
+or check any time in Settings › Playlists and channels › Check for updates. Choose **Update** and
+Android shows its install screen. The first time, Android asks you to let Vantage install updates —
+turn on "Allow from this source", press Back and choose Update again.
+
+On version 1.0.0? Enter the Downloader code (**2785143**) once more to get 1.0.1. Your login and
+settings are kept. Your login and settings are kept.
 
 ## Problems?
 
