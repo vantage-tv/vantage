@@ -16,9 +16,8 @@ Fire TV and Google TV.
 2. Allow it to install apps:
    - **Android TV / Google TV / Shield:** Settings › Apps › Security & restrictions › Unknown sources › turn on **Downloader**.
    - **Fire TV:** Settings › My Fire TV › Developer options › Install unknown apps › turn on **Downloader**.
-3. Open Downloader and type this address into its box:
-   `https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk`
-   *(a short Downloader code is coming)*
+3. Open Downloader and enter the code **2785143**, then press Go.
+   *(or type the full address: `https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk`)*
 4. When it's downloaded, choose **Install**, then **Done**. Downloader offers to delete the file; you can.
 
 Or download it directly: **[Vantage.apk](https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk)**
@@ -35,7 +34,7 @@ Your login stays on your TV. To change it: Settings › Playlists and channels �
 
 ## Updating
 
-Enter the same Downloader code again and install over the top. Your login and settings are kept.
+Enter the same Downloader code (**2785143**) again and install over the top — it always gets the newest version. Your login and settings are kept.
 
 ## Problems?
 
