@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk"><b>⬇ Download Vantage</b></a>
+  <a href="https://github.com/vantage-tv/vantage/releases/latest/download/Vantage.apk"><b>⬇ Download Vantage</b></a>
   &nbsp;·&nbsp; Downloader code <b>2785143</b>
-  &nbsp;·&nbsp; <a href="https://github.com/charleswoosnam01-collab/vantage/releases/latest">What's new</a>
+  &nbsp;·&nbsp; <a href="https://github.com/vantage-tv/vantage/releases/latest">What's new</a>
 </p>
 
 <p align="center">
@@ -96,10 +96,10 @@ scores and more — with a live preview as you change them.
    - **Android TV / Google TV / Shield:** Settings › Apps › Security & restrictions › Unknown sources › turn on **Downloader**.
    - **Fire TV:** Settings › My Fire TV › Developer options › Install unknown apps › turn on **Downloader**.
 3. Open Downloader, enter the code **2785143** and press Go.
-   *(or type the full address: `https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk`)*
+   *(or type the full address: `https://github.com/vantage-tv/vantage/releases/latest/download/Vantage.apk`)*
 4. When it's downloaded, choose **Install**, then **Done**. Downloader offers to delete the file; you can.
 
-Or download it directly: **[Vantage.apk](https://github.com/charleswoosnam01-collab/vantage/releases/latest/download/Vantage.apk)**
+Or download it directly: **[Vantage.apk](https://github.com/vantage-tv/vantage/releases/latest/download/Vantage.apk)**
 
 ### First launch
 
